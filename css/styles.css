@@ -147,6 +147,11 @@
     font-weight: bold;
   }
   
+  .more-projects {
+    font-size: 18px;
+    color: #D3A3A3;
+  }
+
   .btn {
     display: inline-block;
     padding: 1rem 2rem;
